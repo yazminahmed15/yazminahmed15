@@ -1,16 +1,52 @@
-## Hi there 👋
+👋 Hi, I'm Aqsa Yasmeen Ahmed!
+🚀 Software Engineering Student | Aspiring Developer
+I’m a Software Engineering student currently pursuing an undergraduate degree. Passionate about full-stack development, software architecture, and API design, I enjoy building scalable and efficient applications. My projects focus on web development, game development, and backend systems, following industry best practices.
 
-<!--
-**yazminahmed15/yazminahmed15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 My Projects
+Here are some of the projects I have worked on during my academic journey:
 
-Here are some ideas to get you started:
+🌋 Volcano Info API
+🔹 A Java microservice that allows users to retrieve volcano and eruption data.
+🛠️ Tech Stack: Java, Spark Java, SQLite, JDBC, JSON & XML Parsing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎟️ Eventitude - Event Management Platform
+🔹 A full-stack event management system that allows users to create, manage, and attend events.
+🛠️ Tech Stack: Vue.js, Node.js, Express.js, SQLite, JWT Authentication, Swagger API
+
+📚 Bookstore UI
+🔹 A responsive bookstore website where users can browse books, add them to a cart, and proceed to checkout.
+🛠️ Tech Stack: HTML, CSS, JavaScript, React.js,  Bootstrap
+
+🏭 Factory Conveyor Game
+🔹 A 2D game built with Processing where players manage footballs on a conveyor belt to prevent exceeding a score limit.
+🛠️ Tech Stack: Java, Processing, Object-Oriented Programming
+
+📅 University Calendar Enhancer
+🔹 A conceptual tool designed to improve the readability of university schedules, presented through PowerPoint slides.
+🛠️ Tech Stack: UI/UX Design, PowerPoint
+
+🛠️ Skills & Technologies
+Frontend: Vue.js, React.js, HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Databases: SQLite, MongoDB
+API Development: RESTful APIs, JSON, XML, Swagger
+Game Development: Processing (Java-based)
+Version Control: Git, GitHub
+Java Object-Oriented Programming
+🎯 Career Interests
+I am interested in pursuing careers related to my degree, including:
+✅ Software Engineering – Full-stack and backend development
+✅ Web Development – Building scalable and user-friendly applications
+✅ API & Microservices Development – Creating efficient and well-structured APIs
+✅ Game Development – Exploring game mechanics and interactive designs
+
+📌 Interests & Hobbies
+Outside of coding, I enjoy:
+
+⚽ Watching football (AC Milan fan) & cricket
+🎮 Playing Nintendo Switch games
+🎥 Exploring anime and animation storytelling
+
+📫 How to Reach Me
+💼 LinkedIn: www.linkedin.com/in/aqsayasmeenahmed
+📧 Email: valirbian15@gmail.com
