@@ -9,7 +9,7 @@ I’m a Software Engineering student currently pursuing an undergraduate degree.
 
 Here are some of the projects I have worked on during my academic journey:
 
-🌋 Volcano Info API
+🌋Volcano Info API
 
 🔹 A Java microservice that allows users to retrieve volcano and eruption data.
 🛠️ Tech Stack: Java, Spark Java, SQLite, JDBC, JSON & XML Parsing
@@ -58,19 +58,10 @@ I am interested in pursuing careers related to my degree, including:
 ✅ Game Development – Exploring game mechanics and interactive designs
 
 
-📌 Interests & Hobbies
-
-Outside of coding, I enjoy:
-
-⚽ Watching football (AC Milan fan) & cricket
-
-🎮 Playing Nintendo Switch games
-
-🎥 Exploring anime and animation storytelling
 
 
 📫 How to Reach Me
 
 💼 LinkedIn: www.linkedin.com/in/aqsayasmeenahmed
 
-📧 Email: valirbian15@gmail.com
+📧 Email: aqsaahmed0315@gmail.com
