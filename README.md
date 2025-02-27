@@ -21,7 +21,7 @@ Here are some of the projects I have worked on during my academic journey:
 📚 Bookstore UI
 
 🔹 A responsive bookstore website where users can browse books, add them to a cart, and proceed to checkout.
-🛠️ Tech Stack: HTML, CSS, JavaScript, React.js,  Bootstrap
+🛠️ Tech Stack: HTML, CSS, JavaScript
 
 🏭 Factory Conveyor Game
 
@@ -36,11 +36,11 @@ Here are some of the projects I have worked on during my academic journey:
 
 🛠️ Skills & Technologies
 
-Frontend: Vue.js, React.js, HTML, CSS, JavaScript
+Frontend: Vue.js, HTML, CSS, JavaScript
 Backend: Node.js, Express.js
 Databases: SQLite, MongoDB
 API Development: RESTful APIs, JSON, XML, Swagger
-Game Development: Processing (Java-based)
+Game Development: Processing (Java-based), IntelliJ
 Version Control: Git, GitHub
 Java Object-Oriented Programming
 
