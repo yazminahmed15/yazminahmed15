@@ -1,6 +1,7 @@
-Hi, I'm Aqsa Yasmeen Ahmed!
+
 
 Software Engineering Student | Aspiring Developer
+
 
 
 Skills & Technologies
@@ -18,6 +19,7 @@ Game Development: Java, IntelliJ/Eclipse (IDEs)
 Version Control: Git, GitHub
 
 Java Object-Oriented Programming
+
 
 
 Career Interests
